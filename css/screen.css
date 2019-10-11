@@ -228,13 +228,12 @@ label {
     margin: .1em 0em 1em 0em;
 
   }
-  label[type=age-verification] {
-    padding: 1em;
-    text-align: justify;
+  #input-age-verification {
+    text-align: center;
   }
   input[type=checkbox] {
-    height: 2.225em;
-    width: 2.225em;
+    height: 3em;
+    width: 3em;
     margin: 1em;
   }
   #input-submit {
@@ -249,7 +248,7 @@ label {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 2.5em;
+    font-size: 3em;
     margin: .5em;
   }
 }
