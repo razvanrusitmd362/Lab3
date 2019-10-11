@@ -208,19 +208,48 @@ label {
   }
   #text {
     text-align: center;
-    font-size: 2.225em;
+    font-size: 3.6em;
+    padding: .5em .1em .5em .1em;
+    color: #D8D7D7;
   }
   #p {
     text-align: center;
     font-size: 1.375em;
+    padding: 1em .1em 1em .1em;
   }
   #input-email {
     text-align: center;
   }
+  #email {
+    width: 90%;
+  }
   #input-age-varification {
-
+    text-align: center;
+    margin: .5em;
+  }
+  input[type=checkbox] {
+    height: 2.225em;
+    width: 2.225em;
+    display: inline-block;
+    position: relative;
+    padding-left: 1em;
   }
   #input-submit {
-
+    text-align: center;
+  }
+  label {
+    text-align: center;
+  }
+  input[type=submit] {
+    background-color: #A7A7A7; /* Green */
+    border: none;
+    border-radius: 1em;
+    color: #040404;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 2.5em;
+    margin: .5em;
   }
 }
