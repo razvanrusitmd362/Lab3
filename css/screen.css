@@ -202,8 +202,25 @@ label {
   display: block;
 }
 
-/* ===== LAYOUT STYLES ====== */
+@media only screen and (min-width: 500px) {
+  body {
+    background-color: #7B7B7B
+  }
+  #text {
+    text-align: center;
+    font-size: 2.225em;
+  }
+  #p {
+    text-align: center;
+    font-size: 1.375em;
+  }
+  #input-email {
+    text-align: center;
+  }
+  #input-age-varification {
 
-/* ===== MODULAR STYLES ===== */
+  }
+  #input-submit {
 
-/* ===== STATE STYLES ======= */
+  }
+}
