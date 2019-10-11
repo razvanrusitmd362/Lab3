@@ -204,6 +204,7 @@ label {
 
 @media only screen and (min-width: 500px) {
   body {
+    font-family: 'Roboto Mono', monospace, serif;
     background-color: #7B7B7B
   }
   #text {
