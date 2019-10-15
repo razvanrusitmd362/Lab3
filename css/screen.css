@@ -224,11 +224,13 @@ label {
     margin-left: 2%;
     font-size: 3em;
   }
+  #email-text {
+    padding: 0em 0em .1em 0em;;
+  }
   #email {
     width: 90%;
     margin: .1em 0em 1em 0em;
     background-color: #D8D7D7;
-
   }
   #input-age-verification {
     text-align: center;  }
