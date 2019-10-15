@@ -234,6 +234,7 @@ label {
   }
   #input-age-verification {
     text-align: center;
+    font-size: 1.5em;
   }
   input[type=checkbox] {
     height: 3em;
