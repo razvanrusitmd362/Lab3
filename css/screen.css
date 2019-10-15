@@ -233,7 +233,8 @@ label {
     background-color: #D8D7D7;
   }
   #input-age-verification {
-    text-align: center;  }
+    text-align: center;
+  }
   input[type=checkbox] {
     height: 3em;
     width: 3em;
